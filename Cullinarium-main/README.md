@@ -76,4 +76,3 @@ lib/
 
 Rafael Dzhumagulov - dzhumagulov.rafael@mail.ru
 
-Project Link: [[https://github.com/yourusername/chef-connect](https://github.com/yourusername/chef-connect)](https://github.com/ramilsalihar/Cullinarium)
