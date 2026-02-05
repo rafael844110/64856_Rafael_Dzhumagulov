@@ -33,7 +33,7 @@ The primary purpose of Chef Connect is to:
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/chef-connect](https://github.com/ramilsalihar/Cullinarium).git
+git clone [https://github.com/yourusername/chef-connect](https://github.com/rafael844110/64856_Rafael_Dzhumagulov).git
 ```
 
 2. Install dependencies
