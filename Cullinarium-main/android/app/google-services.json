@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650587028242",
+    "project_id": "culinarium-baed0",
+    "storage_bucket": "culinarium-baed0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650587028242:android:7ada17db74fe5534e051cb",
+        "android_client_info": {
+          "package_name": "com.devclub.culinarium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7fpXN1NT0JHf3u9iQq6eraJ72Ei6_Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
